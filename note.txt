@@ -1,0 +1,4 @@
+Port:
+< 255: dùng cho các ứng dụng cộng đồng
+255 - 1023 được gán cho các công ty trong các ứng dụng thương mại
+> 1023: không được quy định rõ ràng
